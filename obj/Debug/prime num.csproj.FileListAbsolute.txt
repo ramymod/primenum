@@ -1,0 +1,6 @@
+C:\Users\HELAL\Desktop\prime num\prime num\bin\Debug\prime num.exe.config
+C:\Users\HELAL\Desktop\prime num\prime num\bin\Debug\prime num.exe
+C:\Users\HELAL\Desktop\prime num\prime num\bin\Debug\prime num.pdb
+C:\Users\HELAL\Desktop\prime num\prime num\obj\Debug\prime num.csprojAssemblyReference.cache
+C:\Users\HELAL\Desktop\prime num\prime num\obj\Debug\prime num.exe
+C:\Users\HELAL\Desktop\prime num\prime num\obj\Debug\prime num.pdb
